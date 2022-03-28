@@ -1,0 +1,29 @@
+html{
+    background-color: lightblue;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    padding: 1rem;
+}
+
+body{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+section{
+    padding: 1rem;
+}
+
+footer{
+    padding: 1rem;
+}
