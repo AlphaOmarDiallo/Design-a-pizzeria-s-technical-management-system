@@ -1,19 +1,19 @@
-# p6
+# Design a pizzeria’s technical management system
 
-Analyser un besoin client
+Analyze a customer need.
 
-Les acteurs sont clairement définis.
-Les fonctionnalités explicites et implicites sont identifiées à partir du recueil des besoins.
-Le processus de commande est modélisé.
-Les points ci-dessus sont retranscrits dans le dossier de spécifications fonctionnelles.
-Lister les fonctionnalités demandées par un client
+The actors are clearly defined.
+The explicit and implicit functionalities are identified from the collection of requirements.
+The ordering process is modeled.
+The above points are transcribed in the functional specifications file.
+List the features requested by a client
 
-Les fonctionnalités sont listées en suivant une méthodologie.
-La liste est exhaustive.
-Rédiger les spécifications détaillées d'un projet
+Features are listed following a methodology.
+The list is exhaustive.
+Write detailed project specifications
 
-Les fonctionnalités sont décrites en suivant une méthodologie.
-Chaque fonctionnalité est décrite étape par étape, que ce soit textuellement et/ou via des schémas/diagrammes.
-Sélectionner une solution technique adaptée
+The functionalities are described following a methodology.
+Each feature is described step by step, either textually and/or via diagrams/diagrams.
+Select a suitable technical solution
 
-Le choix de la solution proposée est fondé sur une argumentation basée sur des sources fiables.
+The choice of the proposed solution is based on an argument based on reliable sources.
